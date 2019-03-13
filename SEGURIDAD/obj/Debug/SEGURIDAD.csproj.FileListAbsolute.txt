@@ -1,0 +1,19 @@
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\SEGURIDAD\bin\Debug\SEGURIDAD.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\SEGURIDAD\bin\Debug\SEGURIDAD.pdb
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\SEGURIDAD\obj\Debug\SEGURIDAD.csprojResolveAssemblyReference.cache
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\SEGURIDAD\obj\Debug\SEGURIDAD.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\SEGURIDAD\obj\Debug\SEGURIDAD.pdb
+\\Mac\iCloud\LPPA\iEspresso\SEGURIDAD\bin\Debug\SEGURIDAD.dll
+\\Mac\iCloud\LPPA\iEspresso\SEGURIDAD\bin\Debug\SEGURIDAD.pdb
+\\Mac\iCloud\LPPA\iEspresso\SEGURIDAD\bin\Debug\BE.dll
+\\Mac\iCloud\LPPA\iEspresso\SEGURIDAD\bin\Debug\BE.pdb
+\\Mac\iCloud\LPPA\iEspresso\SEGURIDAD\obj\Debug\SEGURIDAD.csprojResolveAssemblyReference.cache
+\\Mac\iCloud\LPPA\iEspresso\SEGURIDAD\obj\Debug\SEGURIDAD.dll
+\\Mac\iCloud\LPPA\iEspresso\SEGURIDAD\obj\Debug\SEGURIDAD.pdb
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\SEGURIDAD\bin\Debug\SEGURIDAD.dll
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\SEGURIDAD\bin\Debug\SEGURIDAD.pdb
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\SEGURIDAD\bin\Debug\BE.dll
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\SEGURIDAD\bin\Debug\BE.pdb
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\SEGURIDAD\obj\Debug\SEGURIDAD.csprojResolveAssemblyReference.cache
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\SEGURIDAD\obj\Debug\SEGURIDAD.dll
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\SEGURIDAD\obj\Debug\SEGURIDAD.pdb

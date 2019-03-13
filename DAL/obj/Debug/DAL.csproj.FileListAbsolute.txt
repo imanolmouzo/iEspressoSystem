@@ -1,0 +1,25 @@
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\DAL\bin\Debug\DAL.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\DAL\bin\Debug\DAL.pdb
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\DAL\bin\Debug\BE.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\DAL\bin\Debug\BE.pdb
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\DAL\obj\Debug\DAL.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\DAL\obj\Debug\DAL.pdb
+\\Mac\iCloud\LPPA\iEspresso\DAL\bin\Debug\DAL.dll
+\\Mac\iCloud\LPPA\iEspresso\DAL\bin\Debug\DAL.pdb
+\\Mac\iCloud\LPPA\iEspresso\DAL\bin\Debug\BE.dll
+\\Mac\iCloud\LPPA\iEspresso\DAL\bin\Debug\SEGURIDAD.dll
+\\Mac\iCloud\LPPA\iEspresso\DAL\bin\Debug\BE.pdb
+\\Mac\iCloud\LPPA\iEspresso\DAL\bin\Debug\SEGURIDAD.pdb
+\\Mac\iCloud\LPPA\iEspresso\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+\\Mac\iCloud\LPPA\iEspresso\DAL\obj\Debug\DAL.dll
+\\Mac\iCloud\LPPA\iEspresso\DAL\obj\Debug\DAL.pdb
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\DAL\bin\Debug\DAL.dll
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\DAL\bin\Debug\DAL.pdb
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\DAL\bin\Debug\BE.dll
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\DAL\bin\Debug\SEGURIDAD.dll
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\DAL\bin\Debug\BE.pdb
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\DAL\bin\Debug\SEGURIDAD.pdb
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\DAL\obj\Debug\DAL.dll
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\DAL\obj\Debug\DAL.pdb

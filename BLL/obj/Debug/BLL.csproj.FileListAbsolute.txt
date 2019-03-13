@@ -1,0 +1,33 @@
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\BLL\bin\Debug\BLL.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\BLL\bin\Debug\BLL.pdb
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\BLL\bin\Debug\BE.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\BLL\bin\Debug\DAL.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\BLL\bin\Debug\SEGURIDAD.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\BLL\bin\Debug\BE.pdb
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\BLL\bin\Debug\DAL.pdb
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\BLL\bin\Debug\SEGURIDAD.pdb
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\BLL\obj\Debug\BLL.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\BLL\obj\Debug\BLL.pdb
+\\Mac\iCloud\LPPA\iEspresso\BLL\bin\Debug\BLL.dll
+\\Mac\iCloud\LPPA\iEspresso\BLL\bin\Debug\BLL.pdb
+\\Mac\iCloud\LPPA\iEspresso\BLL\bin\Debug\BE.dll
+\\Mac\iCloud\LPPA\iEspresso\BLL\bin\Debug\DAL.dll
+\\Mac\iCloud\LPPA\iEspresso\BLL\bin\Debug\SEGURIDAD.dll
+\\Mac\iCloud\LPPA\iEspresso\BLL\bin\Debug\BE.pdb
+\\Mac\iCloud\LPPA\iEspresso\BLL\bin\Debug\DAL.pdb
+\\Mac\iCloud\LPPA\iEspresso\BLL\bin\Debug\SEGURIDAD.pdb
+\\Mac\iCloud\LPPA\iEspresso\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+\\Mac\iCloud\LPPA\iEspresso\BLL\obj\Debug\BLL.dll
+\\Mac\iCloud\LPPA\iEspresso\BLL\obj\Debug\BLL.pdb
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BLL\bin\Debug\BLL.dll
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BLL\bin\Debug\BLL.pdb
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BLL\bin\Debug\BE.dll
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BLL\bin\Debug\DAL.dll
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BLL\bin\Debug\SEGURIDAD.dll
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BLL\bin\Debug\BE.pdb
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BLL\bin\Debug\DAL.pdb
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BLL\bin\Debug\SEGURIDAD.pdb
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BLL\obj\Debug\BLL.dll
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BLL\obj\Debug\BLL.pdb

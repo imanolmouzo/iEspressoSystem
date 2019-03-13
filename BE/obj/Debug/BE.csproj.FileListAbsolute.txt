@@ -1,0 +1,14 @@
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\BE\bin\Debug\BE.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\BE\bin\Debug\BE.pdb
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\BE\obj\Debug\BE.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\iEspresso\BE\obj\Debug\BE.pdb
+\\Mac\iCloud\LPPA\iEspresso\BE\bin\Debug\BE.dll
+\\Mac\iCloud\LPPA\iEspresso\BE\bin\Debug\BE.pdb
+\\Mac\iCloud\LPPA\iEspresso\BE\obj\Debug\BE.dll
+\\Mac\iCloud\LPPA\iEspresso\BE\obj\Debug\BE.pdb
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BE\bin\Debug\BE.dll
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BE\bin\Debug\BE.pdb
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BE\obj\Debug\BE.dll
+\\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BE\obj\Debug\BE.pdb
