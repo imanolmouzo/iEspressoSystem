@@ -23,3 +23,12 @@
 \\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 \\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\DAL\obj\Debug\DAL.dll
 \\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\DAL\obj\Debug\DAL.pdb
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\DAL\bin\Debug\DAL.dll
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\DAL\bin\Debug\DAL.pdb
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\DAL\bin\Debug\BE.dll
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\DAL\bin\Debug\SEGURIDAD.dll
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\DAL\bin\Debug\BE.pdb
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\DAL\bin\Debug\SEGURIDAD.pdb
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\DAL\obj\Debug\DAL.dll
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\DAL\obj\Debug\DAL.pdb

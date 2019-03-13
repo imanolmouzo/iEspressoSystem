@@ -31,3 +31,14 @@
 \\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 \\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BLL\obj\Debug\BLL.dll
 \\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BLL\obj\Debug\BLL.pdb
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\BLL\bin\Debug\BLL.dll
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\BLL\bin\Debug\BLL.pdb
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\BLL\bin\Debug\BE.dll
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\BLL\bin\Debug\DAL.dll
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\BLL\bin\Debug\SEGURIDAD.dll
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\BLL\bin\Debug\BE.pdb
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\BLL\bin\Debug\DAL.pdb
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\BLL\bin\Debug\SEGURIDAD.pdb
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\BLL\obj\Debug\BLL.dll
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\BLL\obj\Debug\BLL.pdb

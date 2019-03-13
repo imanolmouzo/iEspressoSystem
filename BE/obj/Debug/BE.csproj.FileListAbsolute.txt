@@ -12,3 +12,8 @@
 \\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
 \\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BE\obj\Debug\BE.dll
 \\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\BE\obj\Debug\BE.pdb
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\BE\bin\Debug\BE.dll
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\BE\bin\Debug\BE.pdb
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\BE\obj\Debug\BE.dll
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\BE\obj\Debug\BE.pdb

@@ -17,3 +17,10 @@
 \\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\SEGURIDAD\obj\Debug\SEGURIDAD.csprojResolveAssemblyReference.cache
 \\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\SEGURIDAD\obj\Debug\SEGURIDAD.dll
 \\Mac\iCloud\LPPA\iEspressoWeb\iEspresso\SEGURIDAD\obj\Debug\SEGURIDAD.pdb
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\SEGURIDAD\bin\Debug\SEGURIDAD.dll
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\SEGURIDAD\bin\Debug\SEGURIDAD.pdb
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\SEGURIDAD\bin\Debug\BE.dll
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\SEGURIDAD\bin\Debug\BE.pdb
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\SEGURIDAD\obj\Debug\SEGURIDAD.csprojResolveAssemblyReference.cache
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\SEGURIDAD\obj\Debug\SEGURIDAD.dll
+C:\Users\imanolmouzo\Source\Repos\iEspressoSystem\SEGURIDAD\obj\Debug\SEGURIDAD.pdb
